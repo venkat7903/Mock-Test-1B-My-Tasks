@@ -1,0 +1,26 @@
+.task-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #131213;
+  width: 100%;
+  padding: 0px 10px;
+  margin-bottom: 20px;
+}
+
+.task-name {
+  color: #fff;
+}
+
+.tag-type {
+  background-color: #f3aa4e;
+  color: #1a171d;
+  height: 40px;
+  font-weight: 600;
+  padding: 0px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}

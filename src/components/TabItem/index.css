@@ -1,0 +1,18 @@
+.tab-item {
+  padding: 0;
+  margin-right: 20px;
+}
+
+.tab-btn {
+  border: 1px solid #f3aa4e;
+  color: #fff;
+  background-color: transparent;
+  padding: 5px 10px;
+  border-radius: 15px;
+  outline: none;
+  cursor: pointer;
+}
+
+.active-tab {
+  background-color: #f3aa4e;
+}
